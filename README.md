@@ -5,7 +5,7 @@
 
  The libraries i use :
  
- Kingfisher 
+ Kingfisher and
  ProgressHUD 
 
  api used : 
