@@ -1,16 +1,20 @@
 # Lezzet-Duragi
 
+## Main Features
+* Dependency Network Layer
+* Storyboard 
+* MVC
+* Onboarding Page
 
 
 
- The libraries i use :
+## Frameworks
  
- Kingfisher and
- ProgressHUD 
+ - KingFisher
+ - SDWebImage
 
-api from which i pull data :
- 
- "https://yummie.glitch.me"
+## API
+ "yummie.glitch.me"
  
  
 
